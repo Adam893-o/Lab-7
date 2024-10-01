@@ -36,6 +36,11 @@ li {
 	font-size: 1em;
 }
 
+h1 {
+	color: red;
+	text-align: center;
+}
+
 header a .image1 img {
   margin-top: 20px;
   margin-left: 20px;
@@ -46,6 +51,3 @@ td, th {
 	border: 1px solid;
   }
   
-td, th {
-	border: 1px solid;
-  }
