@@ -1,3 +1,51 @@
+body {
+	background-image: url ('../images/RQ03IX.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no repeat;
+	background-attachment: fixed;
+	margin: 7px;
+	font-family: Arial, sans-erif;
+}
+	
+body {
+	display: fixed;
+	margin: 8px;
+}
+
+img {
+	display: fixed;
+	max-width: 100%;
+	height: auto;
+	z-index: auto;
+}
+
+td {
+	color: #ffffff;
+	font-size: 1em;
+	line-height: 1.6;
+}
+
+
+div {
+	text-align: center;
+}
+
+li {
+	color: black;
+	font-size: 1em;
+}
+
+header a .image1 img {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+td, th {
+	border: 1px solid;
+  }
+  
 td, th {
 	border: 1px solid;
   }
