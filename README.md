@@ -19,10 +19,10 @@
     </tr>
     <tr>
       <td>Images of these four planets</td>
-      <td><img src="images/planet_1.png" height="150" width="200" alt="Venus"></td>
-      <td><img src="images/planet_2.png" height="100" width="300" alt="Neptune"></td>
-      <td><img src="images/planet_3.png" height="200" width="900" alt="Saturn"></td>
-      <td><img src="images/planet_4.png" height="100" width="110" alt="Mercury"></td>
+      <td><img src="images/planet_1.png" alt="Venus"></td>
+      <td><img src="images/planet_2.png" alt="Neptune"></td>
+      <td><img src="images/planet_3.png" alt="Saturn"></td>
+      <td><img src="images/planet_4.png" alt="Mercury"></td>
     </tr>
     <tr>
       <td>Fact #1</td>
