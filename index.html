@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="header">
-    <h1>Planetary Fact Sheet</h1>
+    <h1>Facts about these top four planets</h1>
 	</div>
   <table id="planets">
     <tr>
@@ -18,16 +18,16 @@
       <th>Mercury</th>
     </tr>
     <tr>
-      <td>Images of the 4 planets I chose</td>
-      <td><img src="images/planet_1.png" height="300" width="320" alt="Venus"></td>
-      <td><img src="images/planet_2.png" height="300" width="400" alt="Neptune"></td>
-      <td><img src="images/planet_3.png" height="300" width="320" alt="Saturn"></td>
-      <td><img src="images/planet_4.png" height="300" width="320" alt="Mercury"></td>
+      <td>Images of these four planets</td>
+      <td><img src="images/planet_1.png" height="150" width="200" alt="Venus"></td>
+      <td><img src="images/planet_2.png" height="100" width="300" alt="Neptune"></td>
+      <td><img src="images/planet_3.png" height="200" width="900" alt="Saturn"></td>
+      <td><img src="images/planet_4.png" height="100" width="110" alt="Mercury"></td>
     </tr>
     <tr>
       <td>Fact #1</td>
       <td>Venus is called Earth's twin due to it being a little bit smaller than Earth.</td>
-      <td>Neptune is called an ice giant for being too far away from the sun.</td>
+      <td>Neptune just like Uranus is called an ice giant.</td>
       <td>Saturn's rings are mostly made of ice, rocks, and dust.</td>
       <td>Mercury is the first and smallest planet in the solar system </td>
     </tr>
@@ -41,7 +41,7 @@
     <tr>
       <td>Fact #3</td>
       <td>Venus' atmosphere is 96 % carbon dioxide 3% nitrogen and 1% gases.</td>
-      <td>Neptune has over 14 moons, it's most popular being triton.</td>
+      <td>Neptune has over 14 moons, it's most popular being Triton.</td>
       <td>Saturn like Jupiter is called a Gas Giant.</td>
       <td>Mercury has the shortest years with only 88 Earth days.</td>
     </tr>
