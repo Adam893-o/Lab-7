@@ -6,19 +6,21 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Planetary Fact Sheet</h1>
+  <div class="header">
+    <h1>Planetary Fact Sheet</h1>
+	</div>
   <table id="planets">
     <tr>
       <th></th>
-      <th>Planet 1</th>
-      <th>Planet 2</th>
-      <th>Planet 3</th>
-      <th>Planet 4</th>
+      <th>Venus</th>
+      <th>Neptune</th>
+      <th>Saturn</th>
+      <th>Mercury</th>
     </tr>
     <tr>
-      <td>Images of ??</td>
+      <td>Images of the 4 planets I chose</td>
       <td><img src="images/planet_1.png" height="300" width="320" alt="Venus"></td>
-      <td><img src="images/planet_2.png" height="300" width="320" alt="Neptune"></td>
+      <td><img src="images/planet_2.png" height="300" width="400" alt="Neptune"></td>
       <td><img src="images/planet_3.png" height="300" width="320" alt="Saturn"></td>
       <td><img src="images/planet_4.png" height="300" width="320" alt="Mercury"></td>
     </tr>
@@ -33,8 +35,8 @@
       <td>Fact #2</td>
       <td>Venus is the slowest rotating planet in the solar system. 1 day lasts about 1 year.</td>
       <td>Neptune has the fastest and strongest winds.</td>
-      <td>Saturn is the 2nd largest planet in the solar system</td>
-      <td>Mercury has no atmosphere like Venus does. That's why it's not the hottest</td>
+      <td>Saturn is the 2nd largest planet in the solar system.</td>
+      <td>Mercury has no atmosphere like Venus does. That's why it's not the hottest.</td>
     </tr>
     <tr>
       <td>Fact #3</td>
