@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="header">
-    <h1>Facts about these top four planets</h1>
+    <h1>Facts About These Top Four Planets</h1>
 	</div>
   <table id="planets">
     <tr>
