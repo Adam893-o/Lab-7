@@ -1,45 +1,40 @@
 body {
-	background-image: url('../images/RQ03IX.png');
-	background-size: cover;
-	background-position: center;
-	background-repeat: no repeat;
-	background-attachment: fixed;
-	margin: 7px;
-	font-family: Arial, sans-serif;
-}
-	
-body {
-	display: fixed;
-	margin: 8px;
+  background-image: url('../images/RQ03IX.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no repeat;
+  background-attachment: fixed;
+  margin: 7px;
+  font-family: Arial, sans-serif;
 }
 
 img {
-	display: flex;
-	max-width: 100%;
-	height: auto;
-	z-index: auto;
+  display: flex;
+  max-width: 100%;
+  height: auto;
+  z-index: auto;
 }
 
 
 td {
-	font-size: 1em;
-	line-height: 1.6;
+  font-size: 1em;
+  line-height: 1.6;
 }
 
 
 div {
-	text-align: center;
+  text-align: center;
 }
 
 li {
-	color: black;
-	font-size: 1em;
+  color: black;
+  font-size: 1em;
 }
 
 h1 {
-	color: red;
-	text-align: center;
-	font-family: 'Devonshire', Georgia;
+  color: red;
+  text-align: center;
+  font-family: 'Devonshire', Georgia;
 }
 
 header a .image1 img {
@@ -49,7 +44,8 @@ header a .image1 img {
 }
 
 td, th {
-	border: 1px solid;
-	color: #00ffce;
+  border: 1px solid;
+  color: #00ffce;
+  font-family: "Arial", cursive;
 }
   
